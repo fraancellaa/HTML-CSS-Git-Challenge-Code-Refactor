@@ -1,23 +1,13 @@
 # HTML-CSS-Git-Challenge-Code-Refactor
-Created repo for Challenge #1.
 
-Project Name: Horiseon. 
-Challenge is to refactor the website code to meet the Acceptance Criteria that is described below. Website has certain dysfunctionalities in within the browser because of syntax errors.
+# Website Name: Horiseon. 
 
-Acceptance Criteria:
+# Description
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+Horison is a website that functions to inform about search engine optimization, how users are searching for the right business as they do daily activities and what it would help to attract the right type of customers to one's business. 
+
+# Screenshot 
+![challenge screenshot](https://user-images.githubusercontent.com/95050386/147001646-5ec406d4-e3f0-4f34-9048-487fa4ff5e8d.png)
 
 
-
-                       
+https://github.com/fraancellaa/HTML-CSS-Git-Challenge-Code-Refactor
