@@ -25,5 +25,3 @@ Horison is a website that functions to inform about search engine optimization, 
 
 # Links
 https://github.com/fraancellaa/HTML-CSS-Git-Challenge-Code-Refactor
-
-file:///Users/francellaaguilar/Desktop/Challenge%201/HTML-CSS-Git-Challenge-Code-Refactor/index.html
